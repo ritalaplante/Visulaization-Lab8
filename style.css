@@ -1,0 +1,15 @@
+body {
+    padding: 20px 45px 70px 95px;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+a {
+	font-size: 18px;
+	color: #E9967A;
+	line-height: 40px;
+}
+
+a:hover {
+	color: #FFA07A;
+}
